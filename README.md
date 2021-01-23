@@ -5,5 +5,5 @@ Using:
 https://bkkfutar.docs.apiary.io/#
 
 Stops.txt
-Downoladed from https://bkk.hu/apps/gtfs/
+Downloaded from https://bkk.hu/apps/gtfs/
 
